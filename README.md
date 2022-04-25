@@ -4,7 +4,8 @@
 run git clone 
 
 # Step 2: 
-yarn, to add 
+To add and install packages
+yarn
 
 # Step 3: 
 yarn start
